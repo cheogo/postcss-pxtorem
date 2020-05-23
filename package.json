@@ -1,5 +1,5 @@
 {
-  "name": "postcss-pxtorem",
+  "name": "postcss-pxtopx-qishi",
   "description": "A CSS post-processor that converts px to rem.",
   "version": "5.1.1",
   "author": "cuth",
